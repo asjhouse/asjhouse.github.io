@@ -60,7 +60,7 @@ var SEPARATION = 100, AMOUNTX = 50, AMOUNTY = 50;
 				container.appendChild( renderer.domElement );
 
 				//document.addEventListener( 'mousemove', onDocumentMouseMove, false );
-				document.addEventListener( 'touchstart', onDocumentTouchStart, false );
+				//document.addEventListener( 'touchstart', onDocumentTouchStart, false );
 				document.addEventListener( 'touchmove', onDocumentTouchMove, false );
 
 				//
